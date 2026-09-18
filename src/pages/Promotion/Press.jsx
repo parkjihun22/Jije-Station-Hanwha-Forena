@@ -89,7 +89,7 @@ export default function Press() {
       path: pressBasePath,
       pageType: "CollectionPage",
       description:
-        "지제역 한화포레나 언론보도 페이지입니다. 김포 고촌 한강 생활권, 공급 정보, 청약, 입지환경, 모델하우스 방문예약 관련 공식 보도자료와 분양 소식을 확인하세요.",
+        "지제역 한화포레나 언론보도 페이지입니다. 공급 정보, 청약, 입지환경, 모델하우스 방문예약 관련 공식 보도자료와 분양 소식을 확인하세요.",
       extraSchemas: [
         {
           "@context": "https://schema.org",
