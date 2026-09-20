@@ -147,7 +147,7 @@ const page = ({
 export const seoPages = {
   home: page({
     path: "/",
-    title: "지제역 한화포레나 | 평택 세교동 1,098세대 모델하우스",
+    title: "지제역 한화포레나",
     description: siteSeo.defaultDescription,
     menu: "홈",
     priority: 1,
